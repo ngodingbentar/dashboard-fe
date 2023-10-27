@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Al-Quran",
+      "route" : "https://www.thiscode.my.id/agama/islam/",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 2,
+      "title": "Cuaca",
+      "route" : "https://www.thiscode.my.id/cuaca",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 3,
+      "title": "Shorten Link",
+      "route" : "https://www.thiscode.my.id/shorten",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 4,
+      "title": "Cek Ongkir",
+      "route" : "https://www.thiscode.my.id/cekongkir",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 5,
+      "title": "Dashboard Crypto (Desktop)",
+      "route" : "https://www.thiscode.my.id/crypto",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 6,
+      "title": "Covid-19",
+      "route" : "https://www.thiscode.my.id/covid",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 7,
+      "title": "Algolia",
+      "route" : "https://www.thiscode.my.id/algolia",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 8,
+      "title": "Mailgun",
+      "route" : "https://www.thiscode.my.id/mailgun",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 9,
+      "title": "ig clone (mobile view)",
+      "route" : "https://www.thiscode.my.id/ig",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    
+    {
+      "id": 10,
+      "title": "KBBI - Unofficial",
+      "route" : "https://www.thiscode.my.id/kbbi",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 11,
+      "title": "Invest",
+      "route" : "https://www.thiscode.my.id/invest",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 12,
+      "title": "Music",
+      "route" : "https://www.thiscode.my.id/music",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    },
+    {
+      "id": 14,
+      "title": "Maps",
+      "route" : "https://www.thiscode.my.id/maps",
+      "description": "",
+      "icon": "",
+      "type": "ext"
+    }
+  ]
+}
