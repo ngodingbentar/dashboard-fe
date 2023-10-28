@@ -1,6 +1,6 @@
 <template>
-  <div class="main text-center">
-    <div>
+  <div class="flex m-auto justify-center">
+    <div class="main text-center">
       <div v-for="item in thisIndex" :key="item.id">
         <nuxt-link v-if="item.type === 'int'" :to="item.route">
           <CardComp :item="item" />
@@ -49,7 +49,7 @@ import CardComp from '../components/CardComp.vue';
   }
 }
 .main {
-  @apply pt-24 min-h-screen pb-8 px-40;
+  @apply pt-8 min-h-screen max-w-md;
 }
 
 .content {
