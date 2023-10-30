@@ -1,7 +1,8 @@
 <template>
-  <div class="flex m-auto justify-center">
-    <div class="main text-center">
-      <div v-for="item in thisIndex" :key="item.id">
+  <!-- <div class="flex m-auto justify-center bg-red-100 flex-row"> -->
+  <div class="mt-8">
+    <div class="main text-center flex flex-wrap m-auto justify-center">
+      <div v-for="item in thisIndex" :key="item.id" class="m-4">
         <nuxt-link v-if="item.type === 'int'" :to="item.route">
           <CardComp :item="item" />
         </nuxt-link>
@@ -9,6 +10,11 @@
           <CardComp :item="item" />
         </a>
       </div>
+    </div>
+  </div>
+  <div>
+    <div class="row flex flex-wrap">
+      <div>as</div>
     </div>
   </div>
 </template>
@@ -48,7 +54,7 @@ import CardComp from '../components/CardComp.vue';
     background: #f1f1f1;
   }
 }
-.main {
+.main2 {
   @apply pt-8 min-h-screen max-w-md;
 }
 
@@ -59,6 +65,6 @@ import CardComp from '../components/CardComp.vue';
   @apply px-8 mx-36 my-4;
 }
 .card {
-  @apply text-2xl p-4 rounded-lg;
+  @apply text-2xl;
 }
 </style>
