@@ -1,6 +1,13 @@
 <template>
-  <div class="card bg-gray-100 w-[170px] h-[170px] m-auto flex p-2 shadow-lg">
-    <div class="content flex m-auto justify-center items-center">
+  <div>
+    <div class="card bg-gray-100 w-[170px] h-[170px] m-auto flex shadow-lg">
+      <div class="content flex m-auto justify-center items-center">
+        <div class="w-full h-full justify-center flex m-auto">
+          <img :src="`/_nuxt/assets/img/${item.icon}.svg`" class="w-[150px] p-4" alt="img" />
+        </div>
+      </div>
+    </div>
+    <div class="mt-2">
       {{ item.title }}
     </div>
   </div>
@@ -8,6 +15,7 @@
 
 <script setup lang="ts">
 const props = defineProps({ item: { type: Object, required: true } })
+const url = 'https://asset.cloudinary.com/dewaqintoro/d8f7d924b65e2183620a8aaada58cdf8'
 
 </script>
 

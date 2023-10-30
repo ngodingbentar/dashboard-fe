@@ -5,7 +5,7 @@
       "title": "Al-Quran",
       "route" : "https://www.thiscode.my.id/agama/islam/",
       "description": "",
-      "icon": "",
+      "icon": "quran",
       "type": "ext"
     },
     {
@@ -13,7 +13,7 @@
       "title": "Cuaca",
       "route" : "https://www.thiscode.my.id/cuaca",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Shorten Link",
       "route" : "https://www.thiscode.my.id/shorten",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -29,7 +29,7 @@
       "title": "Cek Ongkir",
       "route" : "https://www.thiscode.my.id/cekongkir",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -37,7 +37,7 @@
       "title": "Dashboard Crypto (Desktop)",
       "route" : "https://www.thiscode.my.id/crypto",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -45,7 +45,7 @@
       "title": "Covid-19",
       "route" : "https://www.thiscode.my.id/covid",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Algolia",
       "route" : "https://www.thiscode.my.id/algolia",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -61,7 +61,7 @@
       "title": "Mailgun",
       "route" : "https://www.thiscode.my.id/mailgun",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -69,7 +69,7 @@
       "title": "ig clone (mobile view)",
       "route" : "https://www.thiscode.my.id/ig",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     
@@ -78,7 +78,7 @@
       "title": "KBBI - Unofficial",
       "route" : "https://www.thiscode.my.id/kbbi",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -86,7 +86,7 @@
       "title": "Invest",
       "route" : "https://www.thiscode.my.id/invest",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Music",
       "route" : "https://www.thiscode.my.id/music",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     },
     {
@@ -102,7 +102,7 @@
       "title": "Maps",
       "route" : "https://www.thiscode.my.id/maps",
       "description": "",
-      "icon": "",
+      "icon": "cuaca",
       "type": "ext"
     }
   ]
