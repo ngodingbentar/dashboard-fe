@@ -5,7 +5,7 @@
       "title": "Chat (Mobile)",
       "route" : "https://vue-chat-five.vercel.app/",
       "description": "",
-      "icon": "cuaca",
+      "icon": "chat",
       "type": "ext"
     },
     {

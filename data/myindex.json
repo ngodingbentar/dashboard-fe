@@ -29,7 +29,7 @@
       "title": "Cek Ongkir",
       "route" : "https://www.thiscode.my.id/cekongkir",
       "description": "",
-      "icon": "cuaca",
+      "icon": "ongkir",
       "type": "ext"
     },
     {
