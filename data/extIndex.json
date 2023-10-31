@@ -11,7 +11,7 @@
     {
       "id": 101,
       "title": "Youtube Downloader",
-      "route" : "https://yt-ngodingbentar.herokuapp.com",
+      "route" : "https://ngodingbentar-downloader.netlify.app",
       "description": "",
       "icon": "cuaca",
       "type": "ext"
