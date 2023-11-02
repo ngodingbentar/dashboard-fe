@@ -95,6 +95,14 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 112,
+      "title": "QR Code",
+      "route" : "https://qrcode-generator-vue.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
