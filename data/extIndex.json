@@ -103,6 +103,14 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 113,
+      "title": "Charts",
+      "route" : "https://echarts-vue.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
