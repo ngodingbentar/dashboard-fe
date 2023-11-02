@@ -79,12 +79,19 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
-    }
-    ,
+    },
     {
       "id": 110,
       "title": "Expense Tracker",
       "route" : "https://ngodingbentar-catat.netlify.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
+    },
+    {
+      "id": 111,
+      "title": "Movies",
+      "route" : "https://ngodingbentar-film.netlify.app/",
       "description": "",
       "icon": "cuaca",
       "type": "ext"
