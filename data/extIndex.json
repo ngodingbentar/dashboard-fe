@@ -73,9 +73,18 @@
       "type": "ext"
     },
     {
-      "id": 108,
+      "id": 109,
       "title": "Music v2",
       "route" : "https://music-v2-nextjs.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
+    }
+    ,
+    {
+      "id": 110,
+      "title": "Expense Tracker",
+      "route" : "https://ngodingbentar-catat.netlify.app/",
       "description": "",
       "icon": "cuaca",
       "type": "ext"
