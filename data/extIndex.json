@@ -111,6 +111,30 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 114,
+      "title": "CKEditor",
+      "route" : "https://ckeditor-vue.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
+    },
+    {
+      "id": 115,
+      "title": "Vue Quill",
+      "route" : "https://vue-quill.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
+    },
+    {
+      "id": 116,
+      "title": "Note",
+      "route" : "https://ngodingbentar-notes.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
