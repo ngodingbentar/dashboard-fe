@@ -23,6 +23,7 @@
 <script setup lang="ts">
 const router = useRouter()
 const route = useRoute()
+const emit = defineEmits(['search'])
 
 const activeTab = ref('all')
 const tabActive = computed(() => route.query.tab || 'all')
@@ -35,5 +36,7 @@ function setTab (tab) {
       ...router.query
     }
   })
+
+  emit('search', tab)
 }
 </script>

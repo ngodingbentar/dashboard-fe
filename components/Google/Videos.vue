@@ -4,7 +4,7 @@ import type ImagesVue from './Images.vue';
 
 <template>
   <div class="mt-4">
-    <div class="mb-4">
+    <div v-if="data.length > 0" class="mb-4">
       About {{ data.length }} results
     </div>
     <div v-for="(item, i) in data" :key="i" class="mb-8">
@@ -33,8 +33,6 @@ import type ImagesVue from './Images.vue';
 
 <script setup>
 const props = defineProps(['data'])
-
-console.log(props.foo)
 
 function getDate (date) {
   const tgl = new Date(date)

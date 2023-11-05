@@ -1,12 +1,13 @@
 <template>
   <div>
-    <GoogleAll v-if="tabActive === 'all'" :data="data" />
-    <GoogleImages v-if="tabActive === 'images'" :data="dataI"  />
-    <GoogleVideos v-if="tabActive === 'videos'" :data="dataV" />
+    <GoogleAll v-if="tabActive === 'all'" :data="result" />
+    <GoogleImages v-if="tabActive === 'images'" :data="result"  />
+    <GoogleVideos v-if="tabActive === 'videos'" :data="result" />
   </div>
 </template>
 
 <script setup>
+const props = defineProps(['result'])
 
 const data = [
     {
@@ -1390,5 +1391,5 @@ const dataV = [
 
 const route = useRoute()
 const tabActive = computed(() => route.query.tab || 'all')
-console.log('1', route.query)
+
 </script>

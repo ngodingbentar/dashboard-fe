@@ -16,6 +16,4 @@
 
 <script setup>
 const props = defineProps(['data'])
-
-console.log(props.foo)
 </script>
