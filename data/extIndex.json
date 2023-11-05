@@ -135,6 +135,14 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 117,
+      "title": "SpeechSynthesis",
+      "route" : "https://ngodingbentar-speech.netlify.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
