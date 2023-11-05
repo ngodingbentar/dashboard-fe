@@ -104,6 +104,14 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 15,
+      "title": "Google Search",
+      "route" : "/google",
+      "description": "",
+      "icon": "cuaca",
+      "type": "int"
     }
   ]
 }
