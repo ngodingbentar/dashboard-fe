@@ -143,6 +143,30 @@
       "description": "",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 118,
+      "title": "Github Repositories Explorer",
+      "route" : "https://nb-github.vercel.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
+    },
+    {
+      "id": 119,
+      "title": "Blog",
+      "route" : "https://nb-blog-one.vercel.app/blog",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
+    },
+    {
+      "id": 120,
+      "title": "Dashboard",
+      "route" : "https://nb-ds.netlify.app/",
+      "description": "",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
