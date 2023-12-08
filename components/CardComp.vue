@@ -1,10 +1,15 @@
 <template>
   <div>
     <div class="card bg-gray-100 w-[170px] h-[170px] m-auto flex shadow-lg">
-      <div class="content flex m-auto justify-center items-center">
-        <div class="w-full h-full justify-center flex m-auto">
+      <div class="content flex m-auto justify-center items-center w-full">
+        <div class="w-full h-full justify-center m-auto">
           <!-- <img :src="`/img/${item.icon}.svg`" class="w-[150px] p-4" alt="img" /> -->
-          {{ item.title }}
+          <div class="border-b-2 pb-1">
+            {{ item.title }}
+          </div>
+          <div>
+            {{ item.stack }}
+          </div>
         </div>
       </div>
     </div>

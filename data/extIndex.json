@@ -5,6 +5,7 @@
       "title": "Chat (Mobile)",
       "route" : "https://vue-chat-five.vercel.app/",
       "description": "",
+      "stack": "Vue.js",
       "icon": "chat",
       "type": "ext"
     },
@@ -13,6 +14,7 @@
       "title": "Youtube Downloader",
       "route" : "https://ngodingbentar-downloader.netlify.app",
       "description": "",
+      "stack": "React.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -21,6 +23,7 @@
       "title": "Task Management",
       "route" : "https://board-ngodingbentar.vercel.app",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -29,6 +32,7 @@
       "title": "Online Store (Aruspinggir)",
       "route" : "http://ap-v3.herokuapp.com/",
       "description": "",
+      "stack": "MERN",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -37,6 +41,7 @@
       "title": "Trello Clone",
       "route" : "https://ngodingbentar-trello.vercel.app/",
       "description": "",
+      "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -45,6 +50,7 @@
       "title": "Open AI",
       "route" : "https://openai-nuxtjs-ten.vercel.app/",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -53,6 +59,7 @@
       "title": "Portfolio Glass",
       "route" : "https://portfolio-glass.vercel.app/",
       "description": "",
+      "stack": "Html, Css",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -61,6 +68,7 @@
       "title": "Landing Page",
       "route" : "https://fe-katak-landing.vercel.app/",
       "description": "",
+      "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -69,6 +77,7 @@
       "title": "Maps v2",
       "route" : "https://maps-ngodingbentar.vercel.app/",
       "description": "",
+      "stack": "React.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -77,6 +86,7 @@
       "title": "Music v2",
       "route" : "https://music-v2-nextjs.vercel.app/",
       "description": "",
+      "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -85,6 +95,7 @@
       "title": "Expense Tracker",
       "route" : "https://ngodingbentar-catat.netlify.app/",
       "description": "",
+      "stack": "React.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -93,6 +104,7 @@
       "title": "Movies",
       "route" : "https://ngodingbentar-film.netlify.app/",
       "description": "",
+      "stack": "Html, Css",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -101,6 +113,7 @@
       "title": "QR Code",
       "route" : "https://qrcode-generator-vue.vercel.app/",
       "description": "",
+      "stack": "Vue.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -109,6 +122,7 @@
       "title": "Charts",
       "route" : "https://echarts-vue.vercel.app/",
       "description": "",
+      "stack": "Vue.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -117,6 +131,7 @@
       "title": "CKEditor",
       "route" : "https://ckeditor-vue.vercel.app/",
       "description": "",
+      "stack": "Vue.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -125,6 +140,7 @@
       "title": "Vue Quill",
       "route" : "https://vue-quill.vercel.app/",
       "description": "",
+      "stack": "Vue.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -133,6 +149,7 @@
       "title": "Note",
       "route" : "https://ngodingbentar-notes.vercel.app/",
       "description": "",
+      "stack": "React.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -141,6 +158,7 @@
       "title": "SpeechSynthesis",
       "route" : "https://ngodingbentar-speech.netlify.app/",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -149,6 +167,7 @@
       "title": "Github Repositories Explorer",
       "route" : "https://nb-github.vercel.app/",
       "description": "",
+      "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -157,6 +176,7 @@
       "title": "Blog",
       "route" : "https://nb-blog-one.vercel.app/blog",
       "description": "",
+      "stack": "Vue.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -165,6 +185,16 @@
       "title": "Dashboard",
       "route" : "https://nb-ds.netlify.app/",
       "description": "",
+      "stack": "Next.js",
+      "icon": "cuaca",
+      "type": "ext"
+    },
+    {
+      "id": 121,
+      "title": "Midtrans",
+      "route" : "https://nb-midtrans.netlify.app/",
+      "description": "",
+      "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
     }

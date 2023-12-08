@@ -5,6 +5,7 @@
       "title": "Al-Quran",
       "route" : "https://www.thiscode.my.id/agama/islam/",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "quran",
       "type": "ext"
     },
@@ -13,6 +14,7 @@
       "title": "Cuaca",
       "route" : "https://www.thiscode.my.id/cuaca",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -21,6 +23,7 @@
       "title": "Shorten Link",
       "route" : "https://www.thiscode.my.id/shorten",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -29,6 +32,7 @@
       "title": "Cek Ongkir",
       "route" : "https://www.thiscode.my.id/cekongkir",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "ongkir",
       "type": "ext"
     },
@@ -37,6 +41,7 @@
       "title": "Dashboard Crypto (Desktop)",
       "route" : "https://www.thiscode.my.id/crypto",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -45,6 +50,7 @@
       "title": "Covid-19",
       "route" : "https://www.thiscode.my.id/covid",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -53,6 +59,7 @@
       "title": "Algolia",
       "route" : "https://www.thiscode.my.id/algolia",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -61,14 +68,16 @@
       "title": "Mailgun",
       "route" : "https://www.thiscode.my.id/mailgun",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
     {
       "id": 9,
-      "title": "ig clone (mobile view)",
+      "title": "Ig clone (mobile view)",
       "route" : "https://www.thiscode.my.id/ig",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -78,6 +87,7 @@
       "title": "KBBI - Unofficial",
       "route" : "https://www.thiscode.my.id/kbbi",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -86,6 +96,7 @@
       "title": "Invest",
       "route" : "https://www.thiscode.my.id/invest",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -94,6 +105,7 @@
       "title": "Music",
       "route" : "https://www.thiscode.my.id/music",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -102,6 +114,7 @@
       "title": "Maps",
       "route" : "https://www.thiscode.my.id/maps",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "ext"
     },
@@ -110,6 +123,7 @@
       "title": "Google Search",
       "route" : "/google",
       "description": "",
+      "stack": "Nuxt.js",
       "icon": "cuaca",
       "type": "int"
     }
