@@ -197,6 +197,15 @@
       "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 122,
+      "title": "Vacation",
+      "route" : "https://nb-vacation.vercel.app/",
+      "description": "",
+      "stack": "Next.js",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
