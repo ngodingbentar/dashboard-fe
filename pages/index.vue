@@ -1,7 +1,7 @@
 <template>
   <!-- <div class="flex m-auto justify-center bg-red-100 flex-row"> -->
   <div class="mt-8">
-    <div class="main text-center flex flex-wrap m-auto justify-center">
+    <div class="main text-center flex flex-wrap m-auto justify-center max-w-5xl">
       <div v-for="item in thisIndex" :key="item.id" class="m-4">
         <nuxt-link v-if="item.type === 'int'" :to="item.route">
           <CardComp :item="item" />
