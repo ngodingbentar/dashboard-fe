@@ -12,11 +12,7 @@
       </div>
     </div>
   </div>
-  <!-- <div>
-    <div class="row flex flex-wrap">
-      <div>as</div>
-    </div>
-  </div> -->
+  <FooterComp />
 </template>
 
 <script setup>
