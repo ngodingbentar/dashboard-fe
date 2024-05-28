@@ -206,6 +206,15 @@
       "stack": "Next.js",
       "icon": "cuaca",
       "type": "ext"
+    },
+    {
+      "id": 123,
+      "title": "Gemini AI",
+      "route" : "https://dew-gemini-ai.vercel.app/",
+      "description": "",
+      "stack": "React.js",
+      "icon": "cuaca",
+      "type": "ext"
     }
   ]
 }
